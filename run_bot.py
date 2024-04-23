@@ -13,7 +13,8 @@ def get_text_messages(message):
 
 bot.polling(none_stop=True, interval=0)
 
-
-# city = cp("доставка в питер есть?")
+# mes = "доставка мск есть?"
+# city = cp(mes)
+# print(f'Message: {mes}')
 # print(f'City: {city}')
 
