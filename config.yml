@@ -1,0 +1,5 @@
+app-config:
+  llm: 'mistralai/Mixtral-8x7B-Instruct-v0.1'
+  huggingface-hub-token: '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'
+  prompt_template: 'prompts/'
+  key_path: key.txt
